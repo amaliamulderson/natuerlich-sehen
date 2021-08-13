@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Amalias Sehkraftblog</title>
+    <title>Categories on Amalias Blog über Kurzsichitgkeit</title>
     <link>https://amaliamulderson.github.io/natuerlich-sehen/categories/</link>
-    <description>Recent content in Categories on Amalias Sehkraftblog</description>
+    <description>Recent content in Categories on Amalias Blog über Kurzsichitgkeit</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-ger</language><atom:link href="https://amaliamulderson.github.io/natuerlich-sehen/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language><atom:link href="https://amaliamulderson.github.io/natuerlich-sehen/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
